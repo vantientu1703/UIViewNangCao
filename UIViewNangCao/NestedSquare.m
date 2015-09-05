@@ -28,6 +28,7 @@
     
     CGFloat margin = 20;
     CGFloat recWidth = mainViewSize.width - margin * 2.0;
+    
     CGFloat statusNavigationBarHeight = [UIApplication sharedApplication].statusBarFrame.size.height + self.navigationController.navigationBar.bounds.size.height;
     
     CGPoint center = CGPointMake(mainViewSize.width * 0.5, (mainViewSize.height + statusNavigationBarHeight) * 0.5);

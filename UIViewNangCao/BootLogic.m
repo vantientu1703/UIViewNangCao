@@ -19,8 +19,11 @@
                                     @{TITLE: @"Camp Fire",CLASS: @"CampFire"},
                                     @{TITLE: @"NestedSquare",CLASS: @"NestedSquare"},
                                     @{TITLE: @"FlyingBird",CLASS: @"FlyingBird"},
-                                    @{TITLE: @"Boat on the Sea",CLASS: @"BoatOntheSea"}
-                                    
+                                    @{TITLE: @"Boat on the Sea",CLASS: @"BoatOntheSea"},
+                                    @{TITLE: @"Basic View",CLASS: @"BasicView"},
+                                    @{TITLE: @"ChessView",CLASS: @"ChessView"},
+                                    @{TITLE: @"Star ",CLASS: @"stars"},
+                                    @{TITLE: @"Demo Color",CLASS: @"demoColor"}
                           ]};
     NSDictionary* intermediate = @{SECTION: @"Play Game", MENU: @[
                                            @{TITLE: @"Tapped",CLASS: @"Tapp"}

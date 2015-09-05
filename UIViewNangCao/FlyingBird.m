@@ -40,7 +40,6 @@
     jungle2 = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"junglea.jpg"]];
     jungle2.frame = CGRectMake(self.view.bounds.size.width, 0, self.view.bounds.size.width, self.view.bounds.size.height);
     [self.view addSubview:jungle2];
-    
 }
 -(void) animateJungle {
     
@@ -63,9 +62,10 @@
 }
 -(void) addBird {
     
-    bird = [[UIImageView alloc] initWithFrame:CGRectMake(199, 0, 80, 550)];
+    bird = [[UIImageView alloc] initWithFrame:CGRectMake(199, 110, 80, 200)];
     bird1 = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 50, 650)];
     bird2 = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 50, 400)];
+    
     bird.contentMode = UIViewContentModeScaleAspectFit;
     bird1.contentMode = UIViewContentModeScaleAspectFit;
     bird2.contentMode = UIViewContentModeScaleAspectFit;
@@ -84,6 +84,7 @@
     bird.animationDuration = 1; // Khoang thoi gian chay chua anh?
     [self.view addSubview:bird];
     [bird startAnimating];
+    bird.transform = CGAffineTransformMakeRotation(-0.3);
     
     
     bird1.animationImages = images;
