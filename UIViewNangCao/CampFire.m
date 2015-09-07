@@ -21,8 +21,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    //self.view.backgroundColor = [UIColor blackColor];
-    //self.edgesForExtendedLayout = UIRectEdgeNone;
+    self.view.backgroundColor = [UIColor blackColor];
+    self.edgesForExtendedLayout = UIRectEdgeNone;
     
     [self burnFire];
     //NSMutableArray *image = [NSMutableArray alloc] ini

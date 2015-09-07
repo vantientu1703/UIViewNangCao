@@ -16,6 +16,10 @@
 		EF10325C1B9A34B9005CF853 /* MyHeartWGO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */; };
 		EF10325E1B9A3A8B005CF853 /* junglea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF10325D1B9A3A8B005CF853 /* junglea.jpg */; };
 		EF1032601B9A3F01005CF853 /* ChichChoer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */; };
+		EF39B1F71B9CCEA800E0EA31 /* ColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F61B9CCEA800E0EA31 /* ColorView.m */; };
+		EF39B1FA1B9CD0DB00E0EA31 /* ColorViewHex3.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F91B9CD0DB00E0EA31 /* ColorViewHex3.m */; };
+		EF39B1FE1B9CE36300E0EA31 /* RollingBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1FD1B9CE36300E0EA31 /* RollingBall.m */; };
+		EF39B2021B9CE48B00E0EA31 /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = EF39B2011B9CE48B00E0EA31 /* football.png */; };
 		EF6A36F31B9B02E400DB8542 /* BasicView.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6A36F11B9B02E400DB8542 /* BasicView.m */; };
 		EF6A36F41B9B02E400DB8542 /* BasicView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EF6A36F21B9B02E400DB8542 /* BasicView.xib */; };
 		EF6A36F71B9B442200DB8542 /* ChessView.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6A36F61B9B442200DB8542 /* ChessView.m */; };
@@ -26,6 +30,13 @@
 		EF6A37041B9B52C600DB8542 /* stars.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6A37031B9B52C600DB8542 /* stars.m */; };
 		EF6A37081B9B6BB100DB8542 /* demoColor.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6A37071B9B6BB100DB8542 /* demoColor.m */; };
 		EF6A370B1B9B6BCA00DB8542 /* UIColor+Extend.m in Sources */ = {isa = PBXBuildFile; fileRef = EF6A370A1B9B6BCA00DB8542 /* UIColor+Extend.m */; };
+		EF857E1F1B9D14E800041759 /* EarthAroundSun.m in Sources */ = {isa = PBXBuildFile; fileRef = EF857E1E1B9D14E800041759 /* EarthAroundSun.m */; };
+		EF857E221B9D160800041759 /* earth.png in Resources */ = {isa = PBXBuildFile; fileRef = EF857E201B9D160800041759 /* earth.png */; };
+		EF857E231B9D160800041759 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = EF857E211B9D160800041759 /* sun.png */; };
+		EFDA2BC31B9D4EBF00ED39F3 /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC21B9D4EBF00ED39F3 /* moon.png */; };
+		EFDA2BC51B9D506F00ED39F3 /* moon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC41B9D506F00ED39F3 /* moon2x.png */; };
+		EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC61B9D516F00ED39F3 /* moon64.png */; };
+		EFDA2BCB1B9D59DE00ED39F3 /* DropBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */; };
 		EFDDD8531B99BBAF00E871F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD8521B99BBAF00E871F1 /* main.m */; };
 		EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85D1B99BBAF00E871F1 /* Images.xcassets */; };
 		EFDDD8611B99BBAF00E871F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85F1B99BBAF00E871F1 /* LaunchScreen.xib */; };
@@ -73,6 +84,13 @@
 		EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MyHeartWGO.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/MyHeartWGO.mp3"; sourceTree = "<group>"; };
 		EF10325D1B9A3A8B005CF853 /* junglea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = junglea.jpg; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/FlyingBird/flyingbird/junglea.jpg"; sourceTree = "<group>"; };
 		EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ChichChoer.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/Chich Choe/ChichChoer.mp3"; sourceTree = "<group>"; };
+		EF39B1F51B9CCEA800E0EA31 /* ColorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorView.h; sourceTree = "<group>"; };
+		EF39B1F61B9CCEA800E0EA31 /* ColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorView.m; sourceTree = "<group>"; };
+		EF39B1F81B9CD0DB00E0EA31 /* ColorViewHex3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorViewHex3.h; sourceTree = "<group>"; };
+		EF39B1F91B9CD0DB00E0EA31 /* ColorViewHex3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorViewHex3.m; sourceTree = "<group>"; };
+		EF39B1FC1B9CE36300E0EA31 /* RollingBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RollingBall.h; sourceTree = "<group>"; };
+		EF39B1FD1B9CE36300E0EA31 /* RollingBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RollingBall.m; sourceTree = "<group>"; };
+		EF39B2011B9CE48B00E0EA31 /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
 		EF6A36F01B9B02E400DB8542 /* BasicView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicView.h; sourceTree = "<group>"; };
 		EF6A36F11B9B02E400DB8542 /* BasicView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BasicView.m; sourceTree = "<group>"; };
 		EF6A36F21B9B02E400DB8542 /* BasicView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BasicView.xib; sourceTree = "<group>"; };
@@ -88,6 +106,15 @@
 		EF6A37071B9B6BB100DB8542 /* demoColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = demoColor.m; sourceTree = "<group>"; };
 		EF6A37091B9B6BCA00DB8542 /* UIColor+Extend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Extend.h"; sourceTree = "<group>"; };
 		EF6A370A1B9B6BCA00DB8542 /* UIColor+Extend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Extend.m"; sourceTree = "<group>"; };
+		EF857E1D1B9D14E800041759 /* EarthAroundSun.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EarthAroundSun.h; sourceTree = "<group>"; };
+		EF857E1E1B9D14E800041759 /* EarthAroundSun.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthAroundSun.m; sourceTree = "<group>"; };
+		EF857E201B9D160800041759 /* earth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = earth.png; sourceTree = "<group>"; };
+		EF857E211B9D160800041759 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sun.png; sourceTree = "<group>"; };
+		EFDA2BC21B9D4EBF00ED39F3 /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
+		EFDA2BC41B9D506F00ED39F3 /* moon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon2x.png; sourceTree = "<group>"; };
+		EFDA2BC61B9D516F00ED39F3 /* moon64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon64.png; sourceTree = "<group>"; };
+		EFDA2BC91B9D59DE00ED39F3 /* DropBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropBall.h; sourceTree = "<group>"; };
+		EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropBall.m; sourceTree = "<group>"; };
 		EFDDD84D1B99BBAF00E871F1 /* UIViewNangCao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewNangCao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDDD8511B99BBAF00E871F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFDDD8521B99BBAF00E871F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -147,6 +174,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF39B1FB1B9CE34100E0EA31 /* RollingBall */ = {
+			isa = PBXGroup;
+			children = (
+				EF39B2011B9CE48B00E0EA31 /* football.png */,
+				EF39B1FC1B9CE36300E0EA31 /* RollingBall.h */,
+				EF39B1FD1B9CE36300E0EA31 /* RollingBall.m */,
+			);
+			name = RollingBall;
+			sourceTree = "<group>";
+		};
 		EF6A36EF1B9B02B000DB8542 /* SwiftoObjectiveC */ = {
 			isa = PBXGroup;
 			children = (
@@ -187,8 +224,35 @@
 				EF6A37071B9B6BB100DB8542 /* demoColor.m */,
 				EF6A37091B9B6BCA00DB8542 /* UIColor+Extend.h */,
 				EF6A370A1B9B6BCA00DB8542 /* UIColor+Extend.m */,
+				EF39B1F51B9CCEA800E0EA31 /* ColorView.h */,
+				EF39B1F61B9CCEA800E0EA31 /* ColorView.m */,
+				EF39B1F81B9CD0DB00E0EA31 /* ColorViewHex3.h */,
+				EF39B1F91B9CD0DB00E0EA31 /* ColorViewHex3.m */,
 			);
 			name = DemoColor;
+			sourceTree = "<group>";
+		};
+		EF857E1C1B9D14C600041759 /* EarthAroundSun */ = {
+			isa = PBXGroup;
+			children = (
+				EFDA2BC61B9D516F00ED39F3 /* moon64.png */,
+				EFDA2BC41B9D506F00ED39F3 /* moon2x.png */,
+				EFDA2BC21B9D4EBF00ED39F3 /* moon.png */,
+				EF857E201B9D160800041759 /* earth.png */,
+				EF857E211B9D160800041759 /* sun.png */,
+				EF857E1D1B9D14E800041759 /* EarthAroundSun.h */,
+				EF857E1E1B9D14E800041759 /* EarthAroundSun.m */,
+			);
+			name = EarthAroundSun;
+			sourceTree = "<group>";
+		};
+		EFDA2BC81B9D59C500ED39F3 /* DropBall */ = {
+			isa = PBXGroup;
+			children = (
+				EFDA2BC91B9D59DE00ED39F3 /* DropBall.h */,
+				EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */,
+			);
+			name = DropBall;
 			sourceTree = "<group>";
 		};
 		EFDDD8441B99BBAF00E871F1 = {
@@ -219,6 +283,9 @@
 				EFDDD8C61B99F1DF00E871F1 /* BoatOntheSea */,
 				EF6A36F81B9B528100DB8542 /* Star */,
 				EF6A37051B9B6B9000DB8542 /* DemoColor */,
+				EF39B1FB1B9CE34100E0EA31 /* RollingBall */,
+				EF857E1C1B9D14C600041759 /* EarthAroundSun */,
+				EFDA2BC81B9D59C500ED39F3 /* DropBall */,
 				EFDDD85D1B99BBAF00E871F1 /* Images.xcassets */,
 				EFDDD85F1B99BBAF00E871F1 /* LaunchScreen.xib */,
 				EFDDD8501B99BBAF00E871F1 /* Supporting Files */,
@@ -399,16 +466,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF857E221B9D160800041759 /* earth.png in Resources */,
 				EFDDD8AD1B99BFA200E871F1 /* campFire16.gif in Resources */,
 				EF10324E1B9A2199005CF853 /* sea3.jpg in Resources */,
 				EF10324C1B9A2199005CF853 /* sea1.jpg in Resources */,
 				EFDDD8AA1B99BFA200E871F1 /* campFire13.gif in Resources */,
 				EFDDD8A91B99BFA200E871F1 /* campFire12.gif in Resources */,
 				EF10325E1B9A3A8B005CF853 /* junglea.jpg in Resources */,
+				EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */,
 				EFDDD8A01B99BFA200E871F1 /* campFire03.gif in Resources */,
 				EFDDD8A41B99BFA200E871F1 /* campFire07.gif in Resources */,
+				EFDA2BC31B9D4EBF00ED39F3 /* moon.png in Resources */,
 				EFDDD8C11B99E81D00E871F1 /* bird2.png in Resources */,
 				EFDDD8A21B99BFA200E871F1 /* campFire05.gif in Resources */,
+				EF39B2021B9CE48B00E0EA31 /* football.png in Resources */,
 				EFDDD8A11B99BFA200E871F1 /* campFire04.gif in Resources */,
 				EFDDD8C51B99E81D00E871F1 /* jungle.jpg in Resources */,
 				EF6A36F41B9B02E400DB8542 /* BasicView.xib in Resources */,
@@ -428,11 +499,13 @@
 				EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */,
 				EF1032561B9A272F005CF853 /* boat.png in Resources */,
 				EFDDD8A81B99BFA200E871F1 /* campFire11.gif in Resources */,
+				EFDA2BC51B9D506F00ED39F3 /* moon2x.png in Resources */,
 				EF6A37001B9B52A500DB8542 /* red.png in Resources */,
 				EFDDD8C31B99E81D00E871F1 /* bird4.png in Resources */,
 				EF6A37011B9B52A500DB8542 /* violet.png in Resources */,
 				EFDDD89F1B99BFA200E871F1 /* campFire02.gif in Resources */,
 				EFDDD8AB1B99BFA200E871F1 /* campFire14.gif in Resources */,
+				EF857E231B9D160800041759 /* sun.png in Resources */,
 				EFDDD8BF1B99E81D00E871F1 /* bird0.png in Resources */,
 				EFDDD8AE1B99BFA200E871F1 /* campFire17.gif in Resources */,
 				EFDDD8C41B99E81D00E871F1 /* bird5.png in Resources */,
@@ -448,17 +521,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF857E1F1B9D14E800041759 /* EarthAroundSun.m in Sources */,
 				EFDDD8C91B99F21F00E871F1 /* BoatOntheSea.m in Sources */,
 				EFDDD88A1B99BF3400E871F1 /* CampFire.m in Sources */,
 				EFDDD8B61B99E7D600E871F1 /* FlyingBird.m in Sources */,
+				EF39B1FE1B9CE36300E0EA31 /* RollingBall.m in Sources */,
 				EF6A37041B9B52C600DB8542 /* stars.m in Sources */,
 				EFDDD8801B99BD3500E871F1 /* BootLogic.m in Sources */,
+				EF39B1F71B9CCEA800E0EA31 /* ColorView.m in Sources */,
 				EFDDD8821B99BD3500E871F1 /* MainScreen.m in Sources */,
 				EF6A37081B9B6BB100DB8542 /* demoColor.m in Sources */,
 				EF6A36F31B9B02E400DB8542 /* BasicView.m in Sources */,
 				EF6A36F71B9B442200DB8542 /* ChessView.m in Sources */,
+				EFDA2BCB1B9D59DE00ED39F3 /* DropBall.m in Sources */,
 				EFDDD8B21B99DCBD00E871F1 /* NestedSquare.m in Sources */,
 				EFDDD8811B99BD3500E871F1 /* ConsoleScreen.m in Sources */,
+				EF39B1FA1B9CD0DB00E0EA31 /* ColorViewHex3.m in Sources */,
 				EF6A370B1B9B6BCA00DB8542 /* UIColor+Extend.m in Sources */,
 				EFDDD87F1B99BD3500E871F1 /* AppDelegate.m in Sources */,
 				EFDDD8531B99BBAF00E871F1 /* main.m in Sources */,

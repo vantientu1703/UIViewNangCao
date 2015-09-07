@@ -23,7 +23,12 @@
                                     @{TITLE: @"Basic View",CLASS: @"BasicView"},
                                     @{TITLE: @"ChessView",CLASS: @"ChessView"},
                                     @{TITLE: @"Star ",CLASS: @"stars"},
-                                    @{TITLE: @"Demo Color",CLASS: @"demoColor"}
+                                    @{TITLE: @"Demo Color",CLASS: @"demoColor"},
+                                    @{TITLE: @"Color View ",CLASS: @"ColorView"},
+                                    @{TITLE: @"Color View Hex 3",CLASS: @"ColorViewHex3"},
+                                    @{TITLE: @"Rolling Ball",CLASS: @"RollingBall"},
+                                    @{TITLE: @"Earth Around Sun",CLASS: @"EarthAroundSun"},
+                                    @{TITLE: @"Drop Ball",CLASS: @"DropBall"}
                           ]};
     NSDictionary* intermediate = @{SECTION: @"Play Game", MENU: @[
                                            @{TITLE: @"Tapped",CLASS: @"Tapp"}

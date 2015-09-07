@@ -23,6 +23,7 @@
     [super viewDidLoad];
     
     self.view.backgroundColor = [UIColor darkGrayColor];
+    //self.edgesForExtendedLayout = UIRectEdgeNone;
     margin = 20;
     
     chessView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.view.bounds.size.width - margin * 2, self.view.bounds.size.width - margin * 2)];

@@ -23,7 +23,8 @@
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    self.view.backgroundColor = [UIColor whiteColor];
+    self.edgesForExtendedLayout = UIRectEdgeNone;
     vari = false;
 }
 - (IBAction)onShow:(id)sender {

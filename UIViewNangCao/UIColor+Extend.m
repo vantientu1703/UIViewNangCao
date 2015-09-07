@@ -9,7 +9,8 @@
 #import "UIColor+Extend.h"
 
 @implementation UIColor (Extend)
--(instancetype) initWithHex: (NSString *) hex alpha: (float) alpha {
+-(instancetype) initWithHex: (NSString *) hex
+                      alpha: (float) alpha {
     
     CGFloat alphaValue = 1;
     if (alpha >= 0 && alpha < 1) {
