@@ -13,8 +13,6 @@
 		EF1032541B9A253C005CF853 /* ship.png in Resources */ = {isa = PBXBuildFile; fileRef = EF1032531B9A253C005CF853 /* ship.png */; };
 		EF1032561B9A272F005CF853 /* boat.png in Resources */ = {isa = PBXBuildFile; fileRef = EF1032551B9A272F005CF853 /* boat.png */; };
 		EF1032581B9A3359005CF853 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF1032571B9A3359005CF853 /* AVFoundation.framework */; };
-		EF10325C1B9A34B9005CF853 /* MyHeartWGO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */; };
-		EF1032601B9A3F01005CF853 /* ChichChoer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */; };
 		EF39B1F71B9CCEA800E0EA31 /* ColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F61B9CCEA800E0EA31 /* ColorView.m */; };
 		EF39B1FA1B9CD0DB00E0EA31 /* ColorViewHex3.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F91B9CD0DB00E0EA31 /* ColorViewHex3.m */; };
 		EF39B1FE1B9CE36300E0EA31 /* RollingBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1FD1B9CE36300E0EA31 /* RollingBall.m */; };
@@ -38,6 +36,8 @@
 		EFDA2BCB1B9D59DE00ED39F3 /* DropBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */; };
 		EFDCB5611B9D8F10002B3C17 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */; };
 		EFDCB5641B9D8F73002B3C17 /* junglea1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */; };
+		EFDCB5661B9D91CF002B3C17 /* ChichChoer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5651B9D91CF002B3C17 /* ChichChoer.mp3 */; };
+		EFDCB5681B9D91E9002B3C17 /* MyHeartWGO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */; };
 		EFDDD8531B99BBAF00E871F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD8521B99BBAF00E871F1 /* main.m */; };
 		EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85D1B99BBAF00E871F1 /* Images.xcassets */; };
 		EFDDD8611B99BBAF00E871F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85F1B99BBAF00E871F1 /* LaunchScreen.xib */; };
@@ -81,8 +81,6 @@
 		EF1032531B9A253C005CF853 /* ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ship.png; sourceTree = "<group>"; };
 		EF1032551B9A272F005CF853 /* boat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat.png; sourceTree = "<group>"; };
 		EF1032571B9A3359005CF853 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
-		EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MyHeartWGO.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/MyHeartWGO.mp3"; sourceTree = "<group>"; };
-		EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ChichChoer.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/Chich Choe/ChichChoer.mp3"; sourceTree = "<group>"; };
 		EF39B1F51B9CCEA800E0EA31 /* ColorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorView.h; sourceTree = "<group>"; };
 		EF39B1F61B9CCEA800E0EA31 /* ColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorView.m; sourceTree = "<group>"; };
 		EF39B1F81B9CD0DB00E0EA31 /* ColorViewHex3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorViewHex3.h; sourceTree = "<group>"; };
@@ -116,6 +114,8 @@
 		EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropBall.m; sourceTree = "<group>"; };
 		EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
 		EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = junglea1.jpeg; sourceTree = "<group>"; };
+		EFDCB5651B9D91CF002B3C17 /* ChichChoer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ChichChoer.mp3; sourceTree = "<group>"; };
+		EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MyHeartWGO.mp3; sourceTree = "<group>"; };
 		EFDDD84D1B99BBAF00E871F1 /* UIViewNangCao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewNangCao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDDD8511B99BBAF00E871F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFDDD8521B99BBAF00E871F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -373,9 +373,9 @@
 		EFDDD8B71B99E7F900E871F1 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				EFDCB5651B9D91CF002B3C17 /* ChichChoer.mp3 */,
 				EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */,
 				EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */,
-				EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */,
 				EFDDD8B81B99E81D00E871F1 /* bird0.png */,
 				EFDDD8B91B99E81D00E871F1 /* bird1.png */,
 				EFDDD8BA1B99E81D00E871F1 /* bird2.png */,
@@ -399,7 +399,7 @@
 		EFDDD8CA1B9A056300E871F1 /* image */ = {
 			isa = PBXGroup;
 			children = (
-				EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */,
+				EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */,
 				EF1032551B9A272F005CF853 /* boat.png */,
 				EF1032531B9A253C005CF853 /* ship.png */,
 				EF1032491B9A2199005CF853 /* sea1.jpg */,
@@ -492,10 +492,8 @@
 				EFDDD8A51B99BFA200E871F1 /* campFire08.gif in Resources */,
 				EF6A36FE1B9B52A500DB8542 /* brown.png in Resources */,
 				EFDDD89E1B99BFA200E871F1 /* campFire01.gif in Resources */,
-				EF10325C1B9A34B9005CF853 /* MyHeartWGO.mp3 in Resources */,
 				EF10324D1B9A2199005CF853 /* sea2.jpg in Resources */,
 				EF6A36FF1B9B52A500DB8542 /* green.png in Resources */,
-				EF1032601B9A3F01005CF853 /* ChichChoer.mp3 in Resources */,
 				EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */,
 				EF1032561B9A272F005CF853 /* boat.png in Resources */,
 				EFDDD8A81B99BFA200E871F1 /* campFire11.gif in Resources */,
@@ -504,6 +502,8 @@
 				EFDDD8C31B99E81D00E871F1 /* bird4.png in Resources */,
 				EF6A37011B9B52A500DB8542 /* violet.png in Resources */,
 				EFDDD89F1B99BFA200E871F1 /* campFire02.gif in Resources */,
+				EFDCB5661B9D91CF002B3C17 /* ChichChoer.mp3 in Resources */,
+				EFDCB5681B9D91E9002B3C17 /* MyHeartWGO.mp3 in Resources */,
 				EFDDD8AB1B99BFA200E871F1 /* campFire14.gif in Resources */,
 				EF857E231B9D160800041759 /* sun.png in Resources */,
 				EFDDD8BF1B99E81D00E871F1 /* bird0.png in Resources */,
