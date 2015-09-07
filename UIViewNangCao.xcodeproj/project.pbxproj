@@ -30,14 +30,12 @@
 		EF857E1F1B9D14E800041759 /* EarthAroundSun.m in Sources */ = {isa = PBXBuildFile; fileRef = EF857E1E1B9D14E800041759 /* EarthAroundSun.m */; };
 		EF857E221B9D160800041759 /* earth.png in Resources */ = {isa = PBXBuildFile; fileRef = EF857E201B9D160800041759 /* earth.png */; };
 		EF857E231B9D160800041759 /* sun.png in Resources */ = {isa = PBXBuildFile; fileRef = EF857E211B9D160800041759 /* sun.png */; };
-		EFDA2BC31B9D4EBF00ED39F3 /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC21B9D4EBF00ED39F3 /* moon.png */; };
 		EFDA2BC51B9D506F00ED39F3 /* moon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC41B9D506F00ED39F3 /* moon2x.png */; };
-		EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC61B9D516F00ED39F3 /* moon64.png */; };
 		EFDA2BCB1B9D59DE00ED39F3 /* DropBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */; };
 		EFDCB5611B9D8F10002B3C17 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */; };
 		EFDCB5641B9D8F73002B3C17 /* junglea1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */; };
 		EFDCB5661B9D91CF002B3C17 /* ChichChoer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5651B9D91CF002B3C17 /* ChichChoer.mp3 */; };
-		EFDCB5681B9D91E9002B3C17 /* MyHeartWGO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */; };
+		EFDCB56A1B9D939F002B3C17 /* MyHeartWGOo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5691B9D939F002B3C17 /* MyHeartWGOo.mp3 */; };
 		EFDDD8531B99BBAF00E871F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD8521B99BBAF00E871F1 /* main.m */; };
 		EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85D1B99BBAF00E871F1 /* Images.xcassets */; };
 		EFDDD8611B99BBAF00E871F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85F1B99BBAF00E871F1 /* LaunchScreen.xib */; };
@@ -107,15 +105,13 @@
 		EF857E1E1B9D14E800041759 /* EarthAroundSun.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EarthAroundSun.m; sourceTree = "<group>"; };
 		EF857E201B9D160800041759 /* earth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = earth.png; sourceTree = "<group>"; };
 		EF857E211B9D160800041759 /* sun.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sun.png; sourceTree = "<group>"; };
-		EFDA2BC21B9D4EBF00ED39F3 /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
 		EFDA2BC41B9D506F00ED39F3 /* moon2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon2x.png; sourceTree = "<group>"; };
-		EFDA2BC61B9D516F00ED39F3 /* moon64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon64.png; sourceTree = "<group>"; };
 		EFDA2BC91B9D59DE00ED39F3 /* DropBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropBall.h; sourceTree = "<group>"; };
 		EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropBall.m; sourceTree = "<group>"; };
 		EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
 		EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = junglea1.jpeg; sourceTree = "<group>"; };
 		EFDCB5651B9D91CF002B3C17 /* ChichChoer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ChichChoer.mp3; sourceTree = "<group>"; };
-		EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MyHeartWGO.mp3; sourceTree = "<group>"; };
+		EFDCB5691B9D939F002B3C17 /* MyHeartWGOo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MyHeartWGOo.mp3; sourceTree = "<group>"; };
 		EFDDD84D1B99BBAF00E871F1 /* UIViewNangCao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewNangCao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDDD8511B99BBAF00E871F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFDDD8521B99BBAF00E871F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -235,9 +231,7 @@
 		EF857E1C1B9D14C600041759 /* EarthAroundSun */ = {
 			isa = PBXGroup;
 			children = (
-				EFDA2BC61B9D516F00ED39F3 /* moon64.png */,
 				EFDA2BC41B9D506F00ED39F3 /* moon2x.png */,
-				EFDA2BC21B9D4EBF00ED39F3 /* moon.png */,
 				EF857E201B9D160800041759 /* earth.png */,
 				EF857E211B9D160800041759 /* sun.png */,
 				EF857E1D1B9D14E800041759 /* EarthAroundSun.h */,
@@ -399,7 +393,7 @@
 		EFDDD8CA1B9A056300E871F1 /* image */ = {
 			isa = PBXGroup;
 			children = (
-				EFDCB5671B9D91E9002B3C17 /* MyHeartWGO.mp3 */,
+				EFDCB5691B9D939F002B3C17 /* MyHeartWGOo.mp3 */,
 				EF1032551B9A272F005CF853 /* boat.png */,
 				EF1032531B9A253C005CF853 /* ship.png */,
 				EF1032491B9A2199005CF853 /* sea1.jpg */,
@@ -472,10 +466,8 @@
 				EF10324C1B9A2199005CF853 /* sea1.jpg in Resources */,
 				EFDDD8AA1B99BFA200E871F1 /* campFire13.gif in Resources */,
 				EFDDD8A91B99BFA200E871F1 /* campFire12.gif in Resources */,
-				EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */,
 				EFDDD8A01B99BFA200E871F1 /* campFire03.gif in Resources */,
 				EFDDD8A41B99BFA200E871F1 /* campFire07.gif in Resources */,
-				EFDA2BC31B9D4EBF00ED39F3 /* moon.png in Resources */,
 				EFDCB5611B9D8F10002B3C17 /* jungle.jpg in Resources */,
 				EFDDD8C11B99E81D00E871F1 /* bird2.png in Resources */,
 				EFDDD8A21B99BFA200E871F1 /* campFire05.gif in Resources */,
@@ -503,11 +495,11 @@
 				EF6A37011B9B52A500DB8542 /* violet.png in Resources */,
 				EFDDD89F1B99BFA200E871F1 /* campFire02.gif in Resources */,
 				EFDCB5661B9D91CF002B3C17 /* ChichChoer.mp3 in Resources */,
-				EFDCB5681B9D91E9002B3C17 /* MyHeartWGO.mp3 in Resources */,
 				EFDDD8AB1B99BFA200E871F1 /* campFire14.gif in Resources */,
 				EF857E231B9D160800041759 /* sun.png in Resources */,
 				EFDDD8BF1B99E81D00E871F1 /* bird0.png in Resources */,
 				EFDDD8AE1B99BFA200E871F1 /* campFire17.gif in Resources */,
+				EFDCB56A1B9D939F002B3C17 /* MyHeartWGOo.mp3 in Resources */,
 				EFDDD8C41B99E81D00E871F1 /* bird5.png in Resources */,
 				EFDDD8C21B99E81D00E871F1 /* bird3.png in Resources */,
 				EFDDD8A31B99BFA200E871F1 /* campFire06.gif in Resources */,

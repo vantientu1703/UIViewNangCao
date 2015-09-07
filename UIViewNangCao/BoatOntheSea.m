@@ -79,7 +79,7 @@
 }
 -(void) playSong {
     
-    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"MyHeartWGO" ofType:@"mp3"];
+    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"MyHeartWGOo" ofType:@"mp3"];
     NSURL *url = [NSURL fileURLWithPath:filePath];
     NSError *error;
     
