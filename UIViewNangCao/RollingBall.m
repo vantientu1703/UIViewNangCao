@@ -33,7 +33,7 @@
     y = (mainViewSize.height - statusNavigationBarHeight) / 2;
 
     [self addBall];
-    timer = [NSTimer scheduledTimerWithTimeInterval: 0.0005
+    timer = [NSTimer scheduledTimerWithTimeInterval: 0.005
                                                  target: self
                                                selector: @selector(rollingBall)
                                                userInfo: nil

@@ -14,7 +14,6 @@
 		EF1032561B9A272F005CF853 /* boat.png in Resources */ = {isa = PBXBuildFile; fileRef = EF1032551B9A272F005CF853 /* boat.png */; };
 		EF1032581B9A3359005CF853 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF1032571B9A3359005CF853 /* AVFoundation.framework */; };
 		EF10325C1B9A34B9005CF853 /* MyHeartWGO.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */; };
-		EF10325E1B9A3A8B005CF853 /* junglea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF10325D1B9A3A8B005CF853 /* junglea.jpg */; };
 		EF1032601B9A3F01005CF853 /* ChichChoer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */; };
 		EF39B1F71B9CCEA800E0EA31 /* ColorView.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F61B9CCEA800E0EA31 /* ColorView.m */; };
 		EF39B1FA1B9CD0DB00E0EA31 /* ColorViewHex3.m in Sources */ = {isa = PBXBuildFile; fileRef = EF39B1F91B9CD0DB00E0EA31 /* ColorViewHex3.m */; };
@@ -37,6 +36,8 @@
 		EFDA2BC51B9D506F00ED39F3 /* moon2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC41B9D506F00ED39F3 /* moon2x.png */; };
 		EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDA2BC61B9D516F00ED39F3 /* moon64.png */; };
 		EFDA2BCB1B9D59DE00ED39F3 /* DropBall.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */; };
+		EFDCB5611B9D8F10002B3C17 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */; };
+		EFDCB5641B9D8F73002B3C17 /* junglea1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */; };
 		EFDDD8531B99BBAF00E871F1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD8521B99BBAF00E871F1 /* main.m */; };
 		EFDDD85E1B99BBAF00E871F1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85D1B99BBAF00E871F1 /* Images.xcassets */; };
 		EFDDD8611B99BBAF00E871F1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD85F1B99BBAF00E871F1 /* LaunchScreen.xib */; };
@@ -70,7 +71,6 @@
 		EFDDD8C21B99E81D00E871F1 /* bird3.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD8BB1B99E81D00E871F1 /* bird3.png */; };
 		EFDDD8C31B99E81D00E871F1 /* bird4.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD8BC1B99E81D00E871F1 /* bird4.png */; };
 		EFDDD8C41B99E81D00E871F1 /* bird5.png in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD8BD1B99E81D00E871F1 /* bird5.png */; };
-		EFDDD8C51B99E81D00E871F1 /* jungle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD8BE1B99E81D00E871F1 /* jungle.jpg */; };
 		EFDDD8C91B99F21F00E871F1 /* BoatOntheSea.m in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD8C81B99F21F00E871F1 /* BoatOntheSea.m */; };
 /* End PBXBuildFile section */
 
@@ -82,7 +82,6 @@
 		EF1032551B9A272F005CF853 /* boat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat.png; sourceTree = "<group>"; };
 		EF1032571B9A3359005CF853 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		EF10325B1B9A34B9005CF853 /* MyHeartWGO.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = MyHeartWGO.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/MyHeartWGO.mp3"; sourceTree = "<group>"; };
-		EF10325D1B9A3A8B005CF853 /* junglea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = junglea.jpg; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/FlyingBird/flyingbird/junglea.jpg"; sourceTree = "<group>"; };
 		EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ChichChoer.mp3; path = "../../../../../Volumes/ENTERTAINMENT/Mac OS/Image/music/Chich Choe/ChichChoer.mp3"; sourceTree = "<group>"; };
 		EF39B1F51B9CCEA800E0EA31 /* ColorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorView.h; sourceTree = "<group>"; };
 		EF39B1F61B9CCEA800E0EA31 /* ColorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ColorView.m; sourceTree = "<group>"; };
@@ -115,6 +114,8 @@
 		EFDA2BC61B9D516F00ED39F3 /* moon64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon64.png; sourceTree = "<group>"; };
 		EFDA2BC91B9D59DE00ED39F3 /* DropBall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropBall.h; sourceTree = "<group>"; };
 		EFDA2BCA1B9D59DE00ED39F3 /* DropBall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropBall.m; sourceTree = "<group>"; };
+		EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
+		EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = junglea1.jpeg; sourceTree = "<group>"; };
 		EFDDD84D1B99BBAF00E871F1 /* UIViewNangCao.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIViewNangCao.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFDDD8511B99BBAF00E871F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EFDDD8521B99BBAF00E871F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -157,7 +158,6 @@
 		EFDDD8BB1B99E81D00E871F1 /* bird3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird3.png; sourceTree = "<group>"; };
 		EFDDD8BC1B99E81D00E871F1 /* bird4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird4.png; sourceTree = "<group>"; };
 		EFDDD8BD1B99E81D00E871F1 /* bird5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bird5.png; sourceTree = "<group>"; };
-		EFDDD8BE1B99E81D00E871F1 /* jungle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jungle.jpg; sourceTree = "<group>"; };
 		EFDDD8C71B99F21F00E871F1 /* BoatOntheSea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoatOntheSea.h; sourceTree = "<group>"; };
 		EFDDD8C81B99F21F00E871F1 /* BoatOntheSea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoatOntheSea.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -373,15 +373,15 @@
 		EFDDD8B71B99E7F900E871F1 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				EFDCB5631B9D8F73002B3C17 /* junglea1.jpeg */,
+				EFDCB55F1B9D8F10002B3C17 /* jungle.jpg */,
 				EF10325F1B9A3F01005CF853 /* ChichChoer.mp3 */,
-				EF10325D1B9A3A8B005CF853 /* junglea.jpg */,
 				EFDDD8B81B99E81D00E871F1 /* bird0.png */,
 				EFDDD8B91B99E81D00E871F1 /* bird1.png */,
 				EFDDD8BA1B99E81D00E871F1 /* bird2.png */,
 				EFDDD8BB1B99E81D00E871F1 /* bird3.png */,
 				EFDDD8BC1B99E81D00E871F1 /* bird4.png */,
 				EFDDD8BD1B99E81D00E871F1 /* bird5.png */,
-				EFDDD8BE1B99E81D00E871F1 /* jungle.jpg */,
 			);
 			name = image;
 			sourceTree = "<group>";
@@ -472,16 +472,15 @@
 				EF10324C1B9A2199005CF853 /* sea1.jpg in Resources */,
 				EFDDD8AA1B99BFA200E871F1 /* campFire13.gif in Resources */,
 				EFDDD8A91B99BFA200E871F1 /* campFire12.gif in Resources */,
-				EF10325E1B9A3A8B005CF853 /* junglea.jpg in Resources */,
 				EFDA2BC71B9D516F00ED39F3 /* moon64.png in Resources */,
 				EFDDD8A01B99BFA200E871F1 /* campFire03.gif in Resources */,
 				EFDDD8A41B99BFA200E871F1 /* campFire07.gif in Resources */,
 				EFDA2BC31B9D4EBF00ED39F3 /* moon.png in Resources */,
+				EFDCB5611B9D8F10002B3C17 /* jungle.jpg in Resources */,
 				EFDDD8C11B99E81D00E871F1 /* bird2.png in Resources */,
 				EFDDD8A21B99BFA200E871F1 /* campFire05.gif in Resources */,
 				EF39B2021B9CE48B00E0EA31 /* football.png in Resources */,
 				EFDDD8A11B99BFA200E871F1 /* campFire04.gif in Resources */,
-				EFDDD8C51B99E81D00E871F1 /* jungle.jpg in Resources */,
 				EF6A36F41B9B02E400DB8542 /* BasicView.xib in Resources */,
 				EF1032541B9A253C005CF853 /* ship.png in Resources */,
 				EFDDD8AC1B99BFA200E871F1 /* campFire15.gif in Resources */,
@@ -489,6 +488,7 @@
 				EFDDD8611B99BBAF00E871F1 /* LaunchScreen.xib in Resources */,
 				EFDDD8A71B99BFA200E871F1 /* campFire10.gif in Resources */,
 				EFDDD8C01B99E81D00E871F1 /* bird1.png in Resources */,
+				EFDCB5641B9D8F73002B3C17 /* junglea1.jpeg in Resources */,
 				EFDDD8A51B99BFA200E871F1 /* campFire08.gif in Resources */,
 				EF6A36FE1B9B52A500DB8542 /* brown.png in Resources */,
 				EFDDD89E1B99BFA200E871F1 /* campFire01.gif in Resources */,

@@ -37,7 +37,7 @@
     jungle1.contentMode = UIViewContentModeScaleAspectFit;
     [self.view addSubview:jungle1];
     
-    jungle2 = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"junglea.jpg"]];
+    jungle2 = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"junglea1.jpeg"]];
     jungle2.frame = CGRectMake(self.view.bounds.size.width, 0, self.view.bounds.size.width, self.view.bounds.size.height);
     [self.view addSubview:jungle2];
 }
